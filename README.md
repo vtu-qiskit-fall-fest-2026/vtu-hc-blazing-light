@@ -46,8 +46,8 @@
 
 | # | Name | GitHub Username | Role |
 | :-- | :--- | :--- | :--- |
-| 1 | _Add your name_ | _your-github-username_ | _Team Lead_ |
-| 2 | _Add your name_ | _your-github-username_ | _Developer_ |
+| 1 | _Milinda B Raj_ | _m77748712_ | _Team Lead_ |
+| 2 | _Nuthan K G_ | _nuthankg18_ | _Developer_ |
 | 3 | _Add your name_ | _your-github-username_ | _Developer_ |
 
 <!--
