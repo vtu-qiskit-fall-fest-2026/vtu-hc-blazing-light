@@ -66,9 +66,9 @@ who experiences it, and why does it matter. Link to the official problem
 statement from the brief if one applies.
 -->
 
-**Problem:** _Describe the problem in 2–3 sentences._
+**Problem:** _Autonomous robots navigating mazes must identify obstacles, evaluate possible paths, and make efficient movement decisions._
 
-**Why it matters:** _Explain the impact or opportunity._
+**Why it matters:** _Conventional navigation approaches can face challenges when the maze contains multiple possible routes or changing obstacles._
 
 **Track / Category:** _Online / Offline · Track 1 / Track 2 · <domain>_
 
@@ -77,11 +77,10 @@ statement from the brief if one applies.
 ## 💡 Proposed Solution
 
 <!--
-Describe your solution. Keep it concrete: the core idea, the user flow, and
-the quantum/ML technique you are applying.
+Investigate a Qiskit-based approach for representing and evaluating candidate maze paths. Compare its results with a conventional path-planning algorithm and use the selected path to inform the robot's navigation decisions.
 -->
 
-**Solution:** _In 2–3 sentences, describe what you built._
+**Solution:** _Explore quantum computing applications in autonomous robotics.Improve understanding of maze navigation and decision-making_
 
 **Key idea:** _The one-line technical summary of your approach._
 
@@ -268,15 +267,15 @@ git pull --rebase       # update your branch on top of main
 
 ## ✅ Submission Checklist
 
-- [ ] Repository created and **public**
-- [ ] All team members added as **collaborators** and invitations accepted
-- [ ] `README.md` updated with project details, problem statement and solution
-- [ ] Team members listed under [Team Members](#-team-members-github-ids)
-- [ ] `requirements.txt` committed and project runs from a clean clone
-- [ ] Code pushed to `main` and the latest `main` builds successfully
-- [ ] Notebooks committed with **cleared outputs** (or use `nbstrip`)
-- [ ] `README` includes a demo screenshot / video link
-- [ ] Short project summary submitted on the hackathon portal
+- [✅] Repository created and **public**
+- [✅] All team members added as **collaborators** and invitations accepted
+- [✅] `README.md` updated with project details, problem statement and solution
+- [✅] Team members listed under [Team Members](#-team-members-github-ids)
+- [✅] `requirements.txt` committed and project runs from a clean clone
+- [✅] Code pushed to `main` and the latest `main` builds successfully
+- [✅] Notebooks committed with **cleared outputs** (or use `nbstrip`)
+- [✅] `README` includes a demo screenshot / video link
+- [✅] Short project summary submitted on the hackathon portal
 
 ---
 
